@@ -8,8 +8,8 @@
 <div align="center">
    <img height="195" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jbpandio&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
    <br>
-   <img src="https://streak-stats.demolab.com/?user=jbpandio&theme=dark&hide_border=false" />
-   <br>
    <img height="195" src="https://github-readme-stats.shion.dev/api?username=jbpandio&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+   <br>
+   <img src="https://streak-stats.demolab.com/?user=jbpandio&theme=dark&hide_border=false" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
